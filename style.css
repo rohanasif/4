@@ -880,3 +880,10 @@ nav {
     width: 145px;
     height: 65px;
 }
+
+.social-bg {
+    width: 474px;
+    height: 452px;
+    border-radius: 18px;
+    background-image: url(./images/Frame\ 80.png);
+}
